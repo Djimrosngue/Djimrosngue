@@ -1,6 +1,6 @@
 👋 Hi, I'm Djimrosngue Ngarhodjim Justin
 
-IT Support & Full-Stack Developer | Data & IoT
+IT Support & Full-Stack Developer | Data & IoT | Python • Django • Flutter • ESP32
 
 I'm an IT professional passionate about building practical digital solutions that connect software, data and connected devices.
 
