@@ -105,7 +105,7 @@ IT Support • IT Infrastructure • Software Development • IoT • Data
 
 📫 Connect With Me
 
-- 💼 LinkedIn: Coming soon
+- 💼 LinkedIn: www.linkedin.com/in/djimrosngue-justin-31762a258
 - 🌐 Portfolio: Coming soon
 - 📧 Email: Coming soon
 
