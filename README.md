@@ -107,7 +107,7 @@ IT Support • IT Infrastructure • Software Development • IoT • Data
 
 - 💼 LinkedIn: www.linkedin.com/in/djimrosngue-justin-31762a258
 - 🌐 Portfolio: Coming soon
-- 📧 Email: Coming soon
+- 📧 Email: djimrosnguejustin@gmail.com
 
 ---
 
