@@ -1,4 +1,4 @@
-👋 Hi, I'm Djimrosngue Ngarhodjim Justin
+# 👋 Hi, I'm Djimrosngue Ngarhodjim Justin
 
 IT Support & Full-Stack Developer | Data & IoT | Python • Django • Flutter • ESP32
 
@@ -8,7 +8,7 @@ My main areas of interest are IT Support, IT infrastructure, Full-Stack developm
 
 ---
 
-🚀 What I Do
+# 🚀 What I Do
 
 - 🖥️ IT Support & computer maintenance
 - 🌐 Web application development
@@ -20,7 +20,7 @@ My main areas of interest are IT Support, IT infrastructure, Full-Stack developm
 
 ---
 
-🛠️ Technologies
+# 🛠️ Technologies
 
 💻 Development
 
@@ -44,7 +44,7 @@ My main areas of interest are IT Support, IT infrastructure, Full-Stack developm
 
 ---
 
-⭐ Featured Projects
+# ⭐ Featured Projects
 
 🐔 AgriTechIoT / AviTechIoT
 
@@ -72,7 +72,7 @@ Technologies: React.js, JavaScript, Bootstrap 5, Django, Django REST Framework, 
 
 ---
 
-📈 Currently Improving
+# 📈 Currently Improving
 
 - IT Support & infrastructure
 - Computer networks
@@ -85,7 +85,7 @@ Technologies: React.js, JavaScript, Bootstrap 5, Django, Django REST Framework, 
 
 ---
 
-🎯 Professional Goal
+# 🎯 Professional Goal
 
 My goal is to become a versatile IT professional capable of supporting users, managing IT environments and building reliable digital solutions.
 
@@ -95,7 +95,7 @@ IT Support • IT Infrastructure • Software Development • IoT • Data
 
 ---
 
-📫 Connect With Me
+# 📫 Connect With Me
 
 - 💼 LinkedIn: www.linkedin.com/in/djimrosngue-justin-31762a258
 - 🌐 Portfolio: Coming soon
