@@ -64,14 +64,6 @@ Technologies: Django • React • PostgreSQL • REST API
 
 ---
 
-🌦️ Smart Weather
-
-Connected weather monitoring and control application using IoT sensors and a mobile interface.
-
-Technologies: ESP32 • Flutter • Dart • REST API
-
----
-
 💊 SédaPharma
 
 Pharmacy management application focused on medicine inventory, sales and administrative management.
