@@ -60,7 +60,7 @@ Technologies: ESP32 • Django • Django REST Framework • PostgreSQL • Flut
 
 E-commerce platform developed to explore online product management, customer interactions, authentication, APIs and payment integration.
 
-Technologies: Django • React • PostgreSQL • REST API
+Technologies: React.js, JavaScript, Bootstrap 5, Django, Django REST Framework, PostgreSQL, SQLite, JWT, Axios, React Router, REST API, Stripe, PayPal, Mobile Money, Git/GitHub
 
 ---
 
