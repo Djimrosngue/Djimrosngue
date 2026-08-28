@@ -68,7 +68,7 @@ Technologies: Django • React • PostgreSQL • REST API
 
 Pharmacy management application focused on medicine inventory, sales and administrative management.
 
-Technologies: Django • PostgreSQL • Python
+Technologies: React.js, JavaScript, Bootstrap 5, Django, Django REST Framework, PostgreSQL, SQLite, JWT, Axios, React Router, REST API, Git/GitHub
 
 ---
 
