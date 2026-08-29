@@ -1,106 +1,162 @@
-# 👋 Hi, I'm Djimrosngue Ngarhodjim Justin
+## 🚀 Featured Projects
 
-IT Support & Full-Stack Developer | Data & IoT | Python • Django • Flutter • ESP32
+### 💊 SédaPharma — Pharmacy Management System
 
-I'm an IT professional passionate about building practical digital solutions that connect software, data and connected devices.
+A full-stack pharmacy management system designed to digitalize and simplify pharmaceutical operations.
 
-My main areas of interest are IT Support, IT infrastructure, Full-Stack development, data and IoT.
+**Technologies:** React.js, Django, Django REST Framework, PostgreSQL, JWT, Bootstrap 5, Axios.
 
----
+**Key features:**
 
-# 🚀 What I Do
-
-- 🖥️ IT Support & computer maintenance
-- 🌐 Web application development
-- 📱 Mobile application development
-- 🔌 IoT & embedded systems
-- 📊 Data analysis & business intelligence
-- 🗄️ Database design and management
-- 🔗 REST API development and integration
-
----
-
-# 🛠️ Technologies
-
-💻 Development
-
-"Python" "Django" "Django REST Framework" "React" "Flutter" "Dart"
-
-🌐 IoT & Embedded
-
-"ESP32" "ESP8266" "Arduino" "C/C++" "Sensors" "Automation"
-
-🗄️ Data & Backend
-
-"PostgreSQL" "SQLite" "REST API" "WebSocket"
-
-📊 Data & Productivity
-
-"Microsoft Excel" "Power BI" "Microsoft Word" "PowerPoint"
-
-🔧 Tools
-
-"Git" "GitHub" "VS Code"
+* Medicine and inventory management
+* Point of Sale (POS)
+* Sales and payment management
+* Customers and suppliers
+* Prescription management
+* Invoice generation
+* Dashboard and reports
+* Role-based access control
 
 ---
 
-# ⭐ Featured Projects
+### 🛒 Djim's Shop — E-commerce Platform
 
-🐔 AgriTechIoT / AviTechIoT
+A modern e-commerce platform designed for online product sales and digital commerce.
 
-An IoT-based solution designed to monitor and control an intelligent farming environment.
+**Technologies:** React.js, Django, Django REST Framework, PostgreSQL, JWT, Bootstrap 5, Axios, React Router.
 
-Technologies: ESP32 • Django • Django REST Framework • PostgreSQL • Flutter
+**Key features:**
 
-«Personal project — end-to-end design, development and integration.»
-
----
-
-🛒 DJIM'S SHOP
-
-E-commerce platform developed to explore online product management, customer interactions, authentication, APIs and payment integration.
-
-Technologies: React.js, JavaScript, Bootstrap 5, Django, Django REST Framework, PostgreSQL, SQLite, JWT, Axios, React Router, REST API, Stripe, PayPal, Mobile Money, Git/GitHub
-
----
-
-💊 SédaPharma
-
-Pharmacy management application focused on medicine inventory, sales and administrative management.
-
-Technologies: React.js, JavaScript, Bootstrap 5, Django, Django REST Framework, PostgreSQL, SQLite, JWT, Axios, React Router, REST API, Git/GitHub
+* Product catalog
+* Categories and search
+* Shopping cart
+* Wishlist
+* Customer accounts
+* Order management
+* Inventory management
+* Checkout
+* Payment integration
+* Responsive interface
+* Administration dashboard
 
 ---
 
-# 📈 Currently Improving
+### 🌱 Djim's Farm — Smart Poultry Farm
 
-- IT Support & infrastructure
-- Computer networks
-- Windows administration
-- Cybersecurity fundamentals
-- Power BI
-- React
-- Cloud deployment
-- System administration
+An intelligent poultry farming project combining agriculture, IoT, mobile technology, and data monitoring.
 
----
+**Technologies:** ESP32, ESP32-CAM, IoT sensors, Flutter, Dart, Django, Django REST Framework, PostgreSQL.
 
-# 🎯 Professional Goal
+**Key features:**
 
-My goal is to become a versatile IT professional capable of supporting users, managing IT environments and building reliable digital solutions.
-
-I am particularly interested in opportunities involving:
-
-IT Support • IT Infrastructure • Software Development • IoT • Data
+* Environmental monitoring
+* Temperature and humidity monitoring
+* Automated feeding
+* Ventilation control
+* Water/pump control
+* Camera monitoring
+* Mobile application
+* Remote equipment control
+* Real-time data monitoring
+* Future AI-based disease prediction
 
 ---
 
-# 📫 Connect With Me
+### 🌦️ AviTechIoT — Smart Agriculture & IoT Platform
 
-- 💼 LinkedIn: www.linkedin.com/in/djimrosngue-justin-31762a258
-- 🌐 Portfolio: Coming soon
-- 📧 Email: djimrosnguejustin@gmail.com
+An IoT-based platform designed to monitor farming and environmental conditions and remotely control connected equipment.
+
+**Technologies:** ESP32, ESP8266, IoT sensors, Flutter, Dart, Django REST Framework, Python, PostgreSQL.
+
+**Key features:**
+
+* Real-time sensor monitoring
+* Temperature and humidity tracking
+* Equipment control
+* Automatic mode
+* Mobile dashboard
+* Camera monitoring
+* Notifications
+* REST API integration
+* Offline-oriented architecture
 
 ---
 
-💡 Building practical technology solutions, one project at a time.
+### 💼 Djim Portfolio — Personal Developer Portfolio
+
+A professional personal portfolio website designed to showcase my profile, technical skills, services, experience, and software projects.
+
+**Technologies:** Python, Django, Django REST Framework, HTML5, CSS3, JavaScript, Django Templates, PostgreSQL, SQLite, WhiteNoise.
+
+**Key features:**
+
+* Professional profile
+* Skills presentation
+* Services showcase
+* Project portfolio
+* French / English support
+* Django administration
+* Dynamic content management
+* Responsive design
+* PostgreSQL production support
+* Render deployment configuration
+* Production security configuration
+
+---
+
+## 🧰 Technologies Across My Projects
+
+### Frontend
+
+* React.js
+* Flutter
+* Dart
+* JavaScript
+* HTML5
+* CSS3
+* Bootstrap 5
+* React Router
+* Axios
+
+### Backend
+
+* Python
+* Django
+* Django REST Framework
+* REST APIs
+
+### Databases
+
+* PostgreSQL
+* SQLite
+* Firebase
+* SQLite for mobile applications
+
+### IoT
+
+* ESP32
+* ESP8266
+* ESP32-CAM
+* Arduino
+* DHT11
+* BMP280
+* Environmental sensors
+
+### Authentication & Security
+
+* JWT
+* Django Authentication
+* Role-Based Access Control
+* REST API security
+
+### Tools & Deployment
+
+* Git
+* GitHub
+* Visual Studio Code
+* Postman
+* Render
+* Gunicorn
+* WhiteNoise
+* Docker
+* GitHub Actions
