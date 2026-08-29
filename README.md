@@ -221,7 +221,7 @@ Djim Portfolio is my professional portfolio website, designed to showcase my pro
 | 💊 **SédaPharma**               | Pharmacy Management     | React, Django, DRF, PostgreSQL |
 | 🛒 **Djim's Shop**              | E-commerce              | React, Django, DRF, PostgreSQL |
 | 🌱 **AgriTechIoT / AviTechIoT** | IoT / Smart Agriculture | ESP32, Flutter, Django         |
-| 🌤️ **Smart Weather**           | IoT / Weather           | ESP32, Flutter, Django         |
+
 
 ---
 
