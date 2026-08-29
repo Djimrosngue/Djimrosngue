@@ -269,15 +269,6 @@ I am also interested in projects that use technology to solve **real-world probl
 * Software Engineering
 * Artificial Intelligence
 * Digital Transformation
-
----
-
-# 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Djimrosngue\&show_icons=true\&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Djimrosngue\&layout=compact\&theme=default)
-
 ---
 
 # 📫 Connect With Me
